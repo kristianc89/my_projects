@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'baby';
+    src:url(/fuentes/baby-gemoy-cdnfonts/BabyGemoy-nARoV.ttf);
+}
+
+.titulo{
+    font-family: 'baby';
+}
